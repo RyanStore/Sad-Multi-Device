@@ -8,6 +8,7 @@ Patuhi Rules Bot:
 2.Jangan Vc/Telpon Bot 
 3. Jika Ada Bug Harap Hubungi Owner
 4. Owner Dan Admin Rekber Hanya : wa.me/6282252285143 (Selain itu Clone !!!)
+
 #Rules Admin Rekber By Yann Store 
 1. Pakai lah jasa admin setempat/Admin Rekber Group Agar Terhindar Dari Penipuan!!
 2. Rekber ? Mc/Bikin Group
