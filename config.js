@@ -5,13 +5,13 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['+62 822-5228-5143'],
-  ['6282252285143', 'RyanStore', true],
-  ['+6282350496532', 'Bot', true],
-  ['+6282252285143', 'RyanStore', true],
-  ['+62 822-5228-1543', 'RyanStore', true],
+  ['+62 856-0038-0823'],
+  ['+62 823-5049-6532'],
+  ['+62 878-1848-7745'],
+  ['6282252285143', 'Yann | TURU', true],
+  ['+6282350496532', 'Yann | Bangun Turu', true],
+  ['+6285600380823', 'Faisal', true],
+  ['+6287818487745', 'Ciaaa', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +39,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 RYAN BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 SON BOT あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - bot˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ RYAN 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ SON 𝗕𝗢𝗧'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -52,7 +52,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 RYAN BOT あ⁩ 」'
+global.author = '                「 SON BOT あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -79,8 +79,8 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 /*============== NOMOR ==============*/
 global.nomorbot = '6282350496532'
 global.nomorown = '6282252285143'
-global.namebot = 'RYAN-Bot'
-global.nameown = 'RYANSTORE'
+global.namebot = 'SON-Bot'
+global.nameown = 'Yann | BANGUN TURU'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
